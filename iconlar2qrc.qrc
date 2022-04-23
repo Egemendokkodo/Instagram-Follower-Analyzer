@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>yeniiconlar/airplay.svg</file>
+    <file>yeniiconlar/cancel.png</file>
+    <file>yeniiconlar/maximize.png</file>
+    <file>yeniiconlar/menu.svg</file>
+    <file>yeniiconlar/minimize.png</file>
+    <file>yeniiconlar/user-check.svg</file>
+    <file>yeniiconlar/user-minus.svg</file>
+    <file>yeniiconlar/icons8-close-window-32.png</file>
+    <file>yeniiconlar/icons8-minimize-window-32.png</file>
+    <file>yeniiconlar/icons8-restore-window-32.png</file>
+    <file>yeniiconlar/user-plus.svg</file>
+    <file>yeniiconlar/users.svg</file>
+    <file>yeniiconlar/user-x.svg</file>
+  </qresource>
+</RCC>

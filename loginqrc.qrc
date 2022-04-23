@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>instabackground.jpg</file>
+    <file>Inkedinstabackground_LI.jpg</file>
+    <file>instagram.svg</file>
+  </qresource>
+</RCC>

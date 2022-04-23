@@ -2,7 +2,7 @@
 I created a program using Python/PyQt5, CSS, Selenium
 
 
-TR\n
+TR  
   Sizlere PyQt5 CSS ve selenium kullanarak bir instagram takipçi analizi uygulaması yaptım. Uygulama hiçbir şekilde sizin bilgilerinizi kayıt etmez. Selenium ile çalışır. Eğer merak ederseniz sizler için birkaç ekran görüntüsü paylaştım.
   
  EN
